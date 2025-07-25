@@ -1,4 +1,4 @@
 # First
 This is my first Git Repository.
 <br>
-Author - Ritesh Yadav
+Author - Ritesh Yadav R
